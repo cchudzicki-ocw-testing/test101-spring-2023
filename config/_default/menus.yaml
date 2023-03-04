@@ -1,0 +1,13 @@
+leftnav:
+- identifier: c8749f8f-a46a-47d4-ab4b-3beb42f06776
+  name: just a page
+  url: /pages/just-a-page
+  weight: 10
+- identifier: 14007dc2-0bdd-486b-bb1a-6cb302436e6b
+  name: another
+  url: /pages/another-page
+  weight: 20
+- identifier: 5987ae3c-1f9e-43f6-b34c-9d90b98a2f32
+  name: another video gallery
+  url: /video_galleries/another-video-gallery
+  weight: 30

@@ -1,0 +1,29 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "peters-test-site-for-unpbulishing"
+  },
+  "course_image": {
+    "content": "",
+    "website": "peters-test-site-for-unpbulishing"
+  },
+  "course_title": "Peter's test site",
+  "course_description": "\u00a0for unpublishing, and for testing pre-existing captions feature.\u00a0\n\n\u00a0\n\nOof, that typo!",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "unpublish101",
+  "primary_course_number": "test101",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "peters-test-site-for-unpbulishing"
+  },
+  "learning_resource_types": [],
+  "site_uid": "66f64341-708c-4f2f-a639-9fc5449939ac",
+  "site_short_id": "test101-spring-2023"
+}
